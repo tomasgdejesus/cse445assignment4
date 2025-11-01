@@ -1,4 +1,4 @@
-<Hotels>
+<Hotel>
     <Hotel Rating="4.2">
         <Name>Westin</Name>
         <Phone>480-968-8885</Phone>
@@ -79,6 +79,7 @@
     </Hotel>
     <Hotel>
         <Name>Home2 Suites by Hilton Gilbert</Name>
+        <Name>Home2 Suites by Hilton Gilbert</Name>
         <Phone>480-857-4778</Phone>
         <Address NearestAirport="Chandler Municipal Airport">
             <Number>3333</Number>
@@ -97,11 +98,9 @@
             <City>San Francisco</City>
             <State>CA</State>
             <Zip>94128</Zip>
-        </Address>
     </Hotel>
     <Hotel>
         <Name>Motel 6 Phoenix</Name>
-        <Phone>602-267-8555</Phone>
         <Address NearestAirport="Sky Harbor">
             <Number>5315</Number>
             <Street>E Van Buren St</Street>
@@ -113,7 +112,7 @@
     <Hotel>
         <Name>The Global Ambassador</Name>
         <Phone>480-800-2211</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address>
             <Number>4360</Number>
             <Street>E Camelback Rd</Street>
             <City>Phoenix</City>
@@ -121,4 +120,4 @@
             <Zip>85018</Zip>
         </Address>
     </Hotel>
-</Hotels>
+</Hotel>
