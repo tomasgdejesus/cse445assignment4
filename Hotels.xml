@@ -11,4 +11,92 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
+    <Hotel Rating="4.4">
+        <Name>Courtyard by Marriott Phoenix Mesa Gateway Airport</Name>
+        <Phone>480-351-7088</Phone>
+        <Address NearestAirport="Mesa Gateway Airport">
+            <Number>6907</Number>
+            <Street>E Ray Rd</Street>
+            <City>Mesa</City>
+            <State>AZ</State>
+            <Zip>85212</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.2">
+        <Name>Best Western Inn &amp; Suites San Mateo</Name>
+        <Phone>650-347-9990</Phone>
+        <Address NearestAirport="San Francisco International Airport">
+            <Number>780</Number>
+            <Street>S Airport Blvd</Street>
+            <City>San Francisco</City>
+            <State>CA</State>
+            <Zip>94128</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.3">
+        <Name>Hyatt Regency San Francisco Airport</Name>
+        <Phone>650-347-1234</Phone>
+        <Address NearestAirport="San Francisco International Airport">
+            <Number>1333</Number>
+            <Street>Old Bayshore Hwy</Street>
+            <City>Burlingame</City>
+            <State>CA</State>
+            <Zip>94010</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="3.8">
+        <Name>Antelope Hills Inn-Suites</Name>
+        <Phone>928-778-6000</Phone>
+        <Address NearestAirport="Prescott Regional Airport (PRC)">
+            <Number>6000</Number>
+            <Street>AZ-89</Street>
+            <City>Prescott</City>
+            <State>AZ</State>
+            <Zip>86305</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="3.3">
+        <Name>WoodSpring Suites Chandler Airport</Name>
+        <Phone>480-878-3012</Phone>
+        <Address NearestAirport="Chandler Municipal Airport">
+            <Number>2050</Number>
+            <Street>E Germann Rd</Street>
+            <City>Chandler</City>
+            <State>AZ</State>
+            <Zip>85286</Zip>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>Extended Stay America Premier Suites - Phoenix- Chandler-Airport</Name>
+        <Phone>480-744-0330</Phone>
+        <Address NearestAirport="Chandler Municipal Airport">
+            <Number>1855</Number>
+            <Street>S Cooper Rd</Street>
+            <City>Chandler</City>
+            <State>AZ</State>
+            <Zip>85286</Zip>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>Home2 Suites by Hilton Gilbert</Name>
+        <Phone>480-857-4778</Phone>
+        <Address NearestAirport="Chandler Municipal Airport">
+            <Number>3333</Number>
+            <Street>S Market St</Street>
+            <City>Gilbert</City>
+            <State>AZ</State>
+            <Zip>85297</Zip>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>Grand Hyatt at SFO</Name>
+        <Phone>650-452-1234</Phone>
+        <Address NearestAirport="Grand Hyatt at SFO">
+            <Number>55</Number>
+            <Street>S McDonnell Rd</Street>
+            <City>San Francisco</City>
+            <State>CA</State>
+            <Zip>94128</Zip>
+        </Address>
+    </Hotel>
 </Hotels>
